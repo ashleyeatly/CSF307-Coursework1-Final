@@ -1,0 +1,21 @@
+20
+349042927 6 0.69 0.00 Hunts_Tomato_Paste
+100131556 42 0.79 0.00 Romaine_lettuce
+395670131 105576 0.99 0.94 Haribo_Tangfastics_Sweets
+779938075 17 1.09 0.01 Red_onion
+198674545 2 1.49 0.00 Campbell's_Tomato_Soup_10.75oz
+136711645 123892 1.49 0.01 Butternut_Squash
+380823511 76 1.59 0.00 Sweet_corn
+209013455 222123 1.69 0.09 Quaker_Oats
+323311801 272682 1.79 0.06 Ambrosia_Custard
+380976768 144311 1.99 0.00 Quaker_Oats_Quick_1-Minute_Oatmeal_18oz
+156181001 147959 2.49 0.00 Nescafe_Gold_instant_coffee
+199263408 44 2.99 0.01 Nature_Valley_Crunchy_Granola_Bars
+883381852 84 3.29 0.01 McVities_Jaffa_Cakes
+2631444742 91 3.49 0.03 Kelloggs_Cornflakes
+321347963 55 3.69 0.02 Breyers_Vanilla_Ice_Cream_48oz
+185634628 80 3.99 0.02 Sweet_Baby_Ray's_BBQ_Sauce
+245426435 346453 4.49 0.00 Breyers_Natural_Vanilla_Ice_Cream_48oz
+394333350 89 4.99 0.02 Mrs_Butterworth's_Syrup
+154188174 328 17.99 0.07 Simplehuman_Dish_Rack
+183513603 7612 19.99 0.01 All-Clad_Stockpot
